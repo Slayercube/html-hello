@@ -1,0 +1,44 @@
+
+.container {
+    font-family: Helvetica;
+    text-align: center;
+    display: flex;
+    width: auto;
+    flex-direction: column;
+    justify-content: center;
+    border: 2px solid red;
+    
+    
+}
+.head-icons{
+    border: 2px solid red;
+    display: flex;
+    padding: 2px;
+    margin: 10px;
+   
+
+}
+.icon-left{
+    border: 2px solid red;
+    font-size: 50px;
+    margin: 10px;
+}
+.text{
+
+
+}
+
+.icon-right{
+    border: 2px solid red;
+    margin-left: auto;
+
+}
+.body-left{
+    border: 2px solid red;
+
+}
+.body-right{
+    border: 2px solid red;
+
+
+}
